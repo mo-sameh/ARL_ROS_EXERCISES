@@ -1,1 +1,2 @@
-# ARL_ROS_EXERCISES
+# ARL_Workshop
+This the current ROS src folder.
