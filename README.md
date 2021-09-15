@@ -20,4 +20,5 @@ also it is resbonsible for determining the lookahead point based on the current 
 
 
 # Results 
+The following graph shows the target trajectory and how the pure pursuit controller performed with sharp curves.
 ![alt text](https://github.com/mo-sameh/ARL_workshop/blob/master/imgs/test.png)
